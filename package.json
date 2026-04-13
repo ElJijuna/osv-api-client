@@ -1,6 +1,6 @@
 {
   "name": "osv-api-client",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "description": "TypeScript client for the OSV (Open Source Vulnerabilities) REST API",
   "main": "dist/index.cjs",
