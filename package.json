@@ -32,7 +32,7 @@
     "typescript"
   ],
   "license": "MIT",
-  "author": "pilmee (pilmee@gmail.com)",
+  "author": "pilmee <pilmee@gmail.com> (https://github.com/ElJijuna)",
   "homepage": "https://eljijuna.github.io/osv-api-client",
   "bugs": {
     "url": "https://github.com/ElJijuna/osv-api-client/issues"
